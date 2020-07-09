@@ -1,0 +1,125 @@
+.form-control{
+  margin:10px;
+}
+.contactForm{
+  width: 100%;
+  margin: 10%;
+  background-color: white;
+  color: black;
+}
+.conclusion{
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.conclusion h1{
+  margin-top:50px;
+  margin-left:-20vh;
+  width: fit-content;
+  background-color: white;
+  color: black;
+}
+.conclusion p{
+  margin:5%;
+}
+.office{
+  width: 250px;
+  margin-left:10%;
+  height: 100vh;
+}
+.textCcl{
+  width: 40%;
+  float:right;
+}
+.middle{
+  background-color: white;
+  width: 40%;
+  margin:10%;
+  background-color: white;
+}
+.middle h4{
+  margin: 5px;
+  border-left:5px solid #BC9A44;
+}
+.img1{
+  background-color: white;
+  height: 20%;
+  width: 20%;
+  margin: 10%;
+}
+.img2{
+  background-color: white;
+  margin: 10%;
+  width: 30%;
+  float:right;
+}
+.shop{
+  margin-top: 10%;
+  background-color: white;
+  margin-left: 10%;
+  width: 40%;
+
+}
+.shop h4{
+  margin: 5px;
+  border-left:5px solid #BC9A44;
+}
+.liens{
+  width: fit-content;
+  height: fit-content;
+  border:2px solid #BC9A44;
+}
+
+
+.App-logo {
+  height: 100vmin;
+  width: 50%;
+}
+
+.layer {
+  background-color: rgba(70, 70, 70, 0.555);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.layer2{
+  background-color: rgba(151, 123, 32, 0.575);
+  height: 100vh;
+  width: 250px;
+  left:115px;
+  top:294vh;
+  position: absolute;
+
+}
+ 
+ .App-header {
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} 
+nav{
+  position: absolute;
+  color: white;
+}
+.nav-item{
+  margin-right:80px;
+}
+#wood{
+  margin-left:300px;
+}
+.App{
+  background-color: white;
+}
+
+footer{
+  text-align: center;
+  background-color: black;
+}
+.imgFoot{
+  margin: 2%;
+  height: 50px;
+}
